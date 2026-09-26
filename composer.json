@@ -1,0 +1,7 @@
+{
+    "require": {
+        "mongodb/mongodb": "*",
+        "predis/predis": "*",
+        "vlucas/phpdotenv": "*"
+    }
+}
